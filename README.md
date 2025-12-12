@@ -1,10 +1,19 @@
-<h1 align="center"> London Trip </h1>
-<p align="center"> Esercizio svolto durante il corso Boolean per esercitarmi con i tag base di HTML e la struttura di una pagina. </p>
+<p align="center">
+  <img src="img/boolean-logo.png" alt="Boolean logo" width="35">
+</p>
+
+<h1 align="center">London Trip</h1>
+
+<p align="center">
+  Pagina HTML statica che riproduce un semplice layout “London Trip”,
+  con focus sulla struttura del documento e sulla gestione delle immagini.
+</p>
+
 
 ## Obiettivo
 - Riprodurre il layout fornito;
 - Organizzare le immagini in una cartella `img`;
-- Usare path relativi per le prime immagini e path assoluti per le ultime due.
+- Caricare le prime immagini tramite path relativi e le ultime tramite URL assoluti.
 
 ## Anteprima
 
@@ -14,5 +23,5 @@
 
 ## Tecnologie utilizzate
 
-- HTML
+- HTML5
 
