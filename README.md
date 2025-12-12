@@ -4,10 +4,9 @@
 
 <h1 align="center">London Trip</h1>
 
-<p align="center">
   Pagina HTML statica che riproduce un semplice layout “London Trip”,
   con focus sulla struttura del documento e sulla gestione delle immagini.
-</p>
+
 
 
 ## Obiettivo
